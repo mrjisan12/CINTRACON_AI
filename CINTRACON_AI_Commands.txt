@@ -1,0 +1,23 @@
+CINTRACON_AI Commands 
+
+for dependencies and package to install for run AI
+ 
+# pip install langchain langchain-community langchain-ollama openai
+# pip install docarray pypdf
+# pip install langchain-core
+# pip install tiktoken
+
+
+langchain - মূল LangChain লাইব্রেরি
+langchain-community - OpenAI এবং অন্যান্য API-এর জন্য
+langchain-ollama - Ollama মডেল ব্যবহারের জন্য
+openai - OpenAI API কল করার জন্য
+langchain - LangChain লাইব্রেরির মূল প্যাকেজ
+langchain-community - OpenAI, Ollama, PyPDFLoader ইত্যাদির জন্য
+docarray - DocArrayInMemorySearch ব্যবহারের জন্য
+pypdf - PDF লোড ও প্রসেসিং করার জন্য
+langchain-core - PromptTemplate, itemgetter, StrOutputParser ইত্যাদি ফাংশনের জন্য
+tiktoken = OpenAI টোকেনাইজার হ্যান্ডল করতে
+
+
+OPEN_AI API = "API KEY"
